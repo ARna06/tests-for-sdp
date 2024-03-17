@@ -20,6 +20,4 @@ Compile and run `volesti` and use the extension to visualize sampling (with `Coo
 
 To see the result, execute the following command:
     
-    ```r
     source("main.r")
-    ```
