@@ -22,7 +22,7 @@ Compile and run `volesti`. Use the R extension to visualize sampling (with any s
 
 Extend the hit-and-run algorithm to sample from the boundary of the spectrahedron (feasible region of an SDP).
 
-*Status* : Partially done
+*Status* : Done
 
 ## Test-3
 
